@@ -1,0 +1,7 @@
+numpy
+json
+faiss
+sentence_transformers
+pandas
+pathlib
+torch

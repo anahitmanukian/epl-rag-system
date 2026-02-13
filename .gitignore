@@ -1,0 +1,7 @@
+.venv
+*.index
+embeddings
+*.csv
+!data/raw/*.csv  # Exception: keep raw data
+logs
+__pycache__/
